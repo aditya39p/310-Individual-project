@@ -3,7 +3,7 @@
 Name: Aditya Tripathi
 Student ID: 65268641
 
-Repository Link: 
+Repository Link: https://github.com/aditya39p/310-Individual-project.git
 
 My group members and I created an inventory management system for bike and ski shops. The project had features like rentals, stock tracking, notification of low stock, customer information for regular customers, etc. For the Individual part of this assignment, the two APIs I decided to implement in the system are the PayPal API which will simulate an e-commerce scenario for purchasing a product, and the second API is Google Street View Image API, which will get/show directions in the application. 
 
